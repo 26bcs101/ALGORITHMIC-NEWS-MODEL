@@ -1,4 +1,4 @@
-# HyperNews Training Requirements
+# ALGORITHMIC NEWS MODEL Training Requirements
 # Install: pip install -r requirements_train.txt
 #
 # GPU: torch with CUDA is required for DQN training.
