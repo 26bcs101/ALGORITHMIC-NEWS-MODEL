@@ -80,11 +80,11 @@ export default async function HomePage() {
             <div className="flex flex-wrap items-center justify-between gap-4">
               <Link href="/" className="flex items-center gap-3">
                 <div className="flex h-11 w-11 items-center justify-center rounded-full bg-[var(--accent)] text-sm font-bold text-black">
-                  HN
+                  ANM
                 </div>
                 <div>
                   <p className="font-mono text-[11px] uppercase tracking-[0.3em] text-[var(--accent-soft)]">
-                    HyperNews
+                    ALGORITHMIC NEWS MODEL
                   </p>
                   <p className="font-display text-2xl leading-none text-[var(--foreground)]">
                     Personal news, staged cinematically.
@@ -142,7 +142,7 @@ export default async function HomePage() {
                   News around the world tailored for you.
                 </h1>
                 <p className="max-w-2xl text-base leading-8 text-[var(--muted-strong)] sm:text-lg">
-                  HyperNews pairs recommendation learning, retrieval, knowledge graph context,
+                  ALGORITHMIC NEWS MODEL pairs recommendation learning, retrieval, knowledge graph context,
                   and on-device mood sensing so each session feels deliberate instead of noisy.
                 </p>
               </div>
