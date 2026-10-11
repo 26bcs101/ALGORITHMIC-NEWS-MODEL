@@ -1,4 +1,4 @@
-# HyperNews — Hyper-Personalised News Recommender
+# ALGORITHMIC NEWS MODEL 
 
 A production-grade news recommender that combines deep RL, knowledge graphs,
 multimodal signals, and RAG — with a hard architectural separation between
